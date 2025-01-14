@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01", "ex01\ex01.csproj", "{C52CD5D0-A82D-49F8-A86B-3072081ED096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex01", "ex01\ex01.csproj", "{C52CD5D0-A82D-49F8-A86B-3072081ED096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02", "ex02\ex02.csproj", "{E83F0D64-ECAF-4740-B8C6-DA8BB75C7697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex02", "ex02\ex02.csproj", "{E83F0D64-ECAF-4740-B8C6-DA8BB75C7697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03", "ex03\ex03.csproj", "{314DA889-D1F9-4CA6-830C-889DA07F055B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex03", "ex03\ex03.csproj", "{314DA889-D1F9-4CA6-830C-889DA07F055B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04", "ex04\ex04.csproj", "{6F76A907-21EA-43CE-ACAC-4D88F4779000}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{314DA889-D1F9-4CA6-830C-889DA07F055B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{314DA889-D1F9-4CA6-830C-889DA07F055B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{314DA889-D1F9-4CA6-830C-889DA07F055B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F76A907-21EA-43CE-ACAC-4D88F4779000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F76A907-21EA-43CE-ACAC-4D88F4779000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F76A907-21EA-43CE-ACAC-4D88F4779000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F76A907-21EA-43CE-ACAC-4D88F4779000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
