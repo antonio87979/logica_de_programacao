@@ -16,3 +16,5 @@ int numero3 = int.Parse(Console.ReadLine());
 Console.WriteLine("a soma é:" + (numero1 + numero + numero3));
 
 //Console.WriteLine($"a soma é: {numero1 + numero + numero3}");  (com $ e {}, não é necessário o uso do sinal de adição)
+
+//modificação
