@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65E5753D-BC0B-4A79-A280-9E3D456C37A7}|ex09\\ex09.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E5753D-BC0B-4A79-A280-9E3D456C37A7}|ex09\\ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF513B9A-C427-4B23-AD93-7038DE77DBC0}|ex07\\ex07.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF513B9A-C427-4B23-AD93-7038DE77DBC0}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3471BA56-B2DF-4970-8156-A2A7E53E1B6D}|ex05\\ex05.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3471BA56-B2DF-4970-8156-A2A7E53E1B6D}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\Program.cs",
+              "RelativeDocumentMoniker": "ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\Program.cs",
+              "RelativeToolTip": "ex07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:20:11.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex09\\Program.cs",
+              "RelativeDocumentMoniker": "ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex09\\Program.cs",
+              "RelativeToolTip": "ex09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:12:07.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "ex04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T01:15:19.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T01:15:19.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -72,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -84,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
