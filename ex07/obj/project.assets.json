@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\ex07.csproj",
-      "projectName": "ex07",
-      "projectPath": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\ex07.csproj",
+      "projectUniqueName": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\ex06.csproj",
+      "projectName": "ex06",
+      "projectPath": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\ex06.csproj",
       "packagesPath": "C:\\Users\\antonio.rmsneto\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex07\\obj\\",
       "projectStyle": "PackageReference",
