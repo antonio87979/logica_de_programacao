@@ -1,0 +1,15 @@
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\bin\Debug\net8.0\ex25.exe
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\bin\Debug\net8.0\ex25.deps.json
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\bin\Debug\net8.0\ex25.runtimeconfig.json
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\bin\Debug\net8.0\ex25.dll
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\bin\Debug\net8.0\ex25.pdb
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.AssemblyInfoInputs.cache
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.AssemblyInfo.cs
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.csproj.CoreCompileInputs.cache
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.sourcelink.json
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.dll
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\refint\ex25.dll
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.pdb
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ex25.genruntimeconfig.cache
+C:\Users\antonio.rmsneto\source\repos\logica_de_programacao\ex25\obj\Debug\net8.0\ref\ex25.dll
