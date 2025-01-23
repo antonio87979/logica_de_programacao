@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCE6D1D4-79EC-41B0-8FA5-0465F8C4B50A}|desafio03\\desafio03.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE6D1D4-79EC-41B0-8FA5-0465F8C4B50A}|desafio03\\desafio03.csproj|solutionrelative:desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}|desafio05\\desafio05.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}|desafio05\\desafio05.csproj|solutionrelative:desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D8FB3DD-FCBE-40BA-81CA-610C6637EE6F}|desafio04\\desafio04.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D8FB3DD-FCBE-40BA-81CA-610C6637EE6F}|desafio04\\desafio04.csproj|solutionrelative:desafio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE6D1D4-79EC-41B0-8FA5-0465F8C4B50A}|desafio03\\desafio03.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE6D1D4-79EC-41B0-8FA5-0465F8C4B50A}|desafio03\\desafio03.csproj|solutionrelative:desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F76A907-21EA-43CE-ACAC-4D88F4779000}|ex04\\ex04.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F76A907-21EA-43CE-ACAC-4D88F4779000}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D726C538-D9BA-42B5-AA4F-13FBC60B2695}|ex11\\ex11.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D726C538-D9BA-42B5-AA4F-13FBC60B2695}|ex11\\ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +36,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio05\\Program.cs",
+              "RelativeDocumentMoniker": "desafio05\\Program.cs",
+              "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio05\\Program.cs*",
+              "RelativeToolTip": "desafio05\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:30:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:05:24.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex11\\Program.cs",
+              "RelativeDocumentMoniker": "ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\ex11\\Program.cs",
+              "RelativeToolTip": "ex11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:05:20.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio03\\Program.cs",
               "RelativeDocumentMoniker": "desafio03\\Program.cs",
               "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio03\\Program.cs",
               "RelativeToolTip": "desafio03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T23:15:31.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T23:15:31.816Z"
             },
             {
               "$type": "Document",
@@ -41,7 +89,7 @@
               "RelativeDocumentMoniker": "desafio04\\Program.cs",
               "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio04\\Program.cs",
               "RelativeToolTip": "desafio04\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T23:01:40.22Z",
               "EditorCaption": ""
