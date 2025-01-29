@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio04", "desafio04\desa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio03", "desafio03\desafio03.csproj", "{CCE6D1D4-79EC-41B0-8FA5-0465F8C4B50A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio05", "desafio05\desafio05.csproj", "{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio05", "desafio05\desafio05.csproj", "{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio06", "desafio06\desafio06.csproj", "{937E0B27-7F1E-482B-BF2F-E2739ED22870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio06", "desafio06\desafio06.csproj", "{937E0B27-7F1E-482B-BF2F-E2739ED22870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notes_git_github", "notes_git_github\notes_git_github.csproj", "{AC840EF6-22FF-4D4E-B096-3FA8A137305C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{937E0B27-7F1E-482B-BF2F-E2739ED22870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{937E0B27-7F1E-482B-BF2F-E2739ED22870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{937E0B27-7F1E-482B-BF2F-E2739ED22870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC840EF6-22FF-4D4E-B096-3FA8A137305C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC840EF6-22FF-4D4E-B096-3FA8A137305C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC840EF6-22FF-4D4E-B096-3FA8A137305C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC840EF6-22FF-4D4E-B096-3FA8A137305C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

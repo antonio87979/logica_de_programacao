@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}|desafio05\\desafio05.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}|desafio05\\desafio05.csproj|solutionrelative:desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{937E0B27-7F1E-482B-BF2F-E2739ED22870}|desafio06\\desafio06.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{937E0B27-7F1E-482B-BF2F-E2739ED22870}|desafio06\\desafio06.csproj|solutionrelative:desafio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC840EF6-22FF-4D4E-B096-3FA8A137305C}|notes_git_github\\notes_git_github.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\notes_git_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC840EF6-22FF-4D4E-B096-3FA8A137305C}|notes_git_github\\notes_git_github.csproj|solutionrelative:notes_git_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}|desafio05\\desafio05.csproj|c:\\users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56A7ABC-8E1C-45C3-8512-A53B760A4C5D}|desafio05\\desafio05.csproj|solutionrelative:desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,6 +28,19 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\notes_git_github\\Program.cs",
+              "RelativeDocumentMoniker": "notes_git_github\\Program.cs",
+              "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\notes_git_github\\Program.cs",
+              "RelativeToolTip": "notes_git_github\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:04:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio06\\Program.cs",
               "RelativeDocumentMoniker": "desafio06\\Program.cs",
               "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio06\\Program.cs",
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio05\\Program.cs",
               "RelativeDocumentMoniker": "desafio05\\Program.cs",
               "ToolTip": "C:\\Users\\antonio.rmsneto\\source\\repos\\logica_de_programacao\\desafio05\\Program.cs",
               "RelativeToolTip": "desafio05\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T00:30:25.167Z",
               "EditorCaption": ""
